@@ -1,19 +1,3 @@
-'''
-Hi Alejandra
-
-Thanks for your email. I'm really glad you and your daughter are enjoying the book!
-
-I recently had an operation so can't access a copy of the book but I did manage to get a working version of the code and will attach it below. This was from an earlier version when I was writing the book, so some of the code may be different - but it works.
-
-I think the error in your code was that you defined the show_stickman function, but didn't actually call it - that is run it.
-
-I hope this helps - if you still have problems please email me back and I'd be happy to have another look.
-
-Best wishes,
-
-Max Wainewright
-'''
-
 import random
 
 wordList = ['HOUSE', 'APPLE', 'PIZZA', 'ROUND', 'GREEN']
