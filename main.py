@@ -77,5 +77,6 @@ graphical.py
 Displaying
 hangman
 graphical.py.
+Code Max Wainewright
 '''
 
